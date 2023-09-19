@@ -1,0 +1,3 @@
+C:/Users/elias/CLionProjects/Pv_Automation/cmake-build-debug/CMakeFiles/Pv_Automation.dir
+C:/Users/elias/CLionProjects/Pv_Automation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elias/CLionProjects/Pv_Automation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

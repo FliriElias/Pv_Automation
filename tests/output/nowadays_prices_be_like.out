@@ -1,0 +1,16 @@
+Number of solar modules: Subsidy in % of the investment: Direction of the photovoltaic system:
+1: SOUTH
+2: SOUTH-EAST
+3: EAST
+4: SOUTH-WEST
+5: WEST
+Please enter the direction: Electricity rate in cents/kWh: Invalid input! The electricity rate must be an integer which is at least 1 and must not exceed 100 cents/kWh.
+Electricity rate in cents/kWh: Invalid input! The electricity rate must be an integer which is at least 1 and must not exceed 100 cents/kWh.
+Electricity rate in cents/kWh: Invalid input! The electricity rate must be an integer which is at least 1 and must not exceed 100 cents/kWh.
+Electricity rate in cents/kWh: Invalid input! The electricity rate must be an integer which is at least 1 and must not exceed 100 cents/kWh.
+Electricity rate in cents/kWh: 29 modules facing SOUTH-WEST.
+Achievable total power: 10.88 kWp.
+However, due to the suboptimal direction, only 10.33 kWp are achieved.
+Investment of 7539.71 leads to earnings of 6544.85 each year.
+After year 1: 994.86 still to compensate.
+PV system amortized within 2 years.

@@ -1,0 +1,25 @@
+Number of solar modules: Invalid input! The number of solar modules must be an integer greater than or equal to 1 and less than or equal to 80.
+Number of solar modules: Invalid input! The number of solar modules must be an integer greater than or equal to 1 and less than or equal to 80.
+Number of solar modules: Invalid input! The number of solar modules must be an integer greater than or equal to 1 and less than or equal to 80.
+Number of solar modules: Invalid input! The number of solar modules must be an integer greater than or equal to 1 and less than or equal to 80.
+Number of solar modules: Invalid input! The number of solar modules must be an integer greater than or equal to 1 and less than or equal to 80.
+Number of solar modules: Subsidy in % of the investment: Invalid input! The subsidy must be an integer greater than or equal to 0 and less than or equal to 100.
+Subsidy in % of the investment: Invalid input! The subsidy must be an integer greater than or equal to 0 and less than or equal to 100.
+Subsidy in % of the investment: Direction of the photovoltaic system:
+1: SOUTH
+2: SOUTH-EAST
+3: EAST
+4: SOUTH-WEST
+5: WEST
+Please enter the direction: Please enter the direction: Please enter the direction: Please enter the direction: Please enter the direction: Electricity rate in cents/kWh: Invalid input! The electricity rate must be an integer which is at least 1 and must not exceed 100 cents/kWh.
+Electricity rate in cents/kWh: Invalid input! The electricity rate must be an integer which is at least 1 and must not exceed 100 cents/kWh.
+Electricity rate in cents/kWh: Invalid input! The electricity rate must be an integer which is at least 1 and must not exceed 100 cents/kWh.
+Electricity rate in cents/kWh: 80 modules facing EAST.
+Achievable total power: 30.00 kWp.
+However, due to the suboptimal direction, only 27.00 kWp are achieved.
+Investment of 20799.20 leads to earnings of 4887.00 each year.
+After year 1: 15912.20 still to compensate.
+After year 2: 11025.20 still to compensate.
+After year 3: 6138.20 still to compensate.
+After year 4: 1251.20 still to compensate.
+PV system amortized within 5 years.

@@ -1,0 +1,10 @@
+Number of solar modules: Subsidy in % of the investment: Direction of the photovoltaic system:
+1: SOUTH
+2: SOUTH-EAST
+3: EAST
+4: SOUTH-WEST
+5: WEST
+Please enter the direction: Electricity rate in cents/kWh: 77 modules facing SOUTH.
+Achievable total power: 28.88 kWp.
+Investment of 20019.23 leads to earnings of 261.32 each year.
+PV system amortized within a year.

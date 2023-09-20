@@ -4,4 +4,5 @@ project(Pv_Automation)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Pv_Automation
-        main.cpp)
+        main.cpp
+        student_code/main.cpp)

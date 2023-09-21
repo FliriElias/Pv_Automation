@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Pv_Automation.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\Pv_Automation.dir/objects.a @CMakeFiles\Pv_Automation.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Pv_Automation.dir/objects.a -Wl,--no-whole-archive -o Pv_Automation.exe -Wl,--out-implib,libPv_Automation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Pv_Automation.dir\linkLibs.rsp
